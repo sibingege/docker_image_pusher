@@ -1,2 +1,1 @@
-docker pull mzz2017/v2raya
-docker pull tinymediamanager/tinymediamanager:latest-nightly
+tinymediamanager/tinymediamanager:latest-nightly
