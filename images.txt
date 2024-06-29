@@ -1,1 +1,1 @@
-tinymediamanager/tinymediamanager:latest-nightly
+tinymediamanager/tinymediamanager
